@@ -1,0 +1,7 @@
+a:      5    
+value a
+bbb:   x + 6 
+var:   (4)^4    
+( bbb + c * a - bbb ) / var
+bbb / a
+var + xxx + a + bbb
